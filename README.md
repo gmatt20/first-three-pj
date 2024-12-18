@@ -1,0 +1,1 @@
+The project is a simple cube animation where I was following along the Three.js documentation on how Three.js works.
